@@ -11,4 +11,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Run make test
-        run: make test
+        run: python3 main.py
