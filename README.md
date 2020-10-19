@@ -6,7 +6,5 @@
     <a href="https://github.com/claesgill/test-git/commits">
         <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/claesgill/test-git?label=updated">
     </a>
-    <a href="https://github.com/claesgill/test-git/commits">
-        <img alt="Updated" src="https://img.shields.io/github/contributors/claesgill/hacktoberfest-oneliners" />
     </a>
 </div>
