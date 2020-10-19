@@ -5,6 +5,8 @@ on:
     types: [ opened, synchronize, reopened, edited, closed, labeled, unlabeled ]
   push:
     branches: [ master ]
+  schedule:
+    - cron:  '0 0 * * *'
 
 jobs:
   test:
