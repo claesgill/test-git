@@ -9,7 +9,7 @@
     </a>
 </div>
 
-[_TOC_]
+[[_TOC_]]
 
 ## Testing
 
